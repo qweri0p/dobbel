@@ -7,17 +7,17 @@
         ],
         "1": [
             "Je wordt aangevallen door vissen.",
-            "Je slaapt te lang door.",
+            "Jij en een ander worden afgeleid door duivels.",
             "God speelt steen papier schaar met je en je verliest."
         ],
         "2": [
-            "Een zwemmend eiland blokkeert de weg.",
+            "Een zwemmend eiland versnelt je weg.",
             "De wind waait de andere kant op.",
             "Iedereen bidt tegenlijk."
         ],
         "3": [
             "Er is een storm op zee.",
-            "Het is windstil.",
+            "De wind gaat de goede kant op.",
             "Je bidt een keer extra."
         ],
         "4": [
@@ -28,39 +28,39 @@
         "5": [
             "Gooi iemand naar keuze overboord.",
             "Je vindt een eiland met heel veel goud.",
-            "God zegent jou."
+            "God zegent jou en je vriend."
         ]
     },
     "what": {
         "0": [
-            "Ga terug naar het begin.",
+            "Ga terug naar het begin met een speler naar keuze.",
             "Ga 2 vakjes terug.",
             "Beweeg niet tot je een 5 of een 6 krijgt."
         ],
         "1": [
             "Ga 1 vakje terug.",
-            "Sla 2 beurten over.",
+            "Sla 1 beurt over en kies een andere speler die ook 1 beurt over moet slaan.",
             "Ga 1 vakje terug."
         ],
         "2": [
-            "Sla 1 beurt over.",
+            "Ga 1 vakje vooruit.",
             "De volgorde van beurten draaien om.",
             "De persoon die het hoogste dobbelt gaat 3 vakjes vooruit."
         ],
         "3": [
-            "Sla 1 beurt over.",
-            "Er gebeurt niks.",
-            "Dobbel nogmaals."
+            "Ga 2 vakjes vooruit en sla 1 beurt over.",
+            "Iedereen gaat 1 vakje vooruit.",
+            "Ga 2 vakjes vooruit en gooi nog een keer."
         ],
         "4": [
-            "Ga 2 vakjes vooruit.",
+            "Ga 3 vakjes vooruit.",
             "Ga 3 vakjes vooruit.",
             "Ga 3 vakjes vooruit."
         ],
         "5": [
-            "De persoon die je kiest moet 4 vakjes achteruit.",
+            "De persoon die je kiest moet 3 vakjes achteruit.",
             "Ga 4 stappen vooruit.",
-            "Iedereen behalve jij gaat 2 vakjes terug."
+            "Jij en een speler naar keuze gaan 5 vakjes vooruit."
         ]
     }
 }

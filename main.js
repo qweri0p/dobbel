@@ -1,6 +1,5 @@
 import './style.css'
 import rs from './rules.json'
-dorandomstuff()
 function dorandomstuff() {
   const rng = Math.floor(Math.random()*6)
   const rng2 = Math.floor(Math.random()*3)
@@ -9,4 +8,4 @@ function dorandomstuff() {
   document.querySelector('#how').innerHTML = rs.how[rng][rng2]
   document.querySelector('#what').innerHTML = rs.what[rng][rng2]
 }
-document.querySelector('#wat').addEventListener('click', dorandomstuff)
+document.querySelector('button').addEventListener('click', dorandomstuff)
