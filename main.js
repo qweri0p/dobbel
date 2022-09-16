@@ -9,4 +9,4 @@ function dorandomstuff() {
   $('#how').html(rules.how[rng][rng2])
   $('#what').html(rules.what[rng][rng2])
 }
-$('button').bind('click', dorandomstuff)
+$('button').on('click', dorandomstuff)
